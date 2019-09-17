@@ -1,6 +1,6 @@
 # sonic_game
 
-first OOP project for bootcamp decode Mtl
+It's my first project for concordia bootcam, Sonic Game was a game that allows me to learn OOP.
 
 # Demo
 
