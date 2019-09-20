@@ -1,6 +1,6 @@
 # sonic_game
 
-It's my first project for concordia bootcam, It’s a game that I built with OOP, it's a platform game where we have to avoid the enemy with jump and collect coins to earn points
+It's my first project for concordia bootcam, it’s a game that i built with OOP, it's a endless runner game where we have to avoid the enemy with jump and collect coins to earn points
 
 # Demo
 
