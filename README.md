@@ -1,6 +1,6 @@
 # sonic_game
 
-It's my first project for concordia bootcam, Sonic Game was a game that allows me to learn OOP.
+It's my first project for concordia bootcam, It’s a game that I built with OOP, it's a platform game where we have to avoid the enemy with jump and collect coins to earn points
 
 # Demo
 
